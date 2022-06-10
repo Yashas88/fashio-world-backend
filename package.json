@@ -5,9 +5,9 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node backend/server",
+    "start": "node server",
     "description": "E-Commerce Website [MERN stack]",
-    "server": "nodemon backend/server"
+    "server": "nodemon server"
   },
   "repository": {
     "type": "git",
